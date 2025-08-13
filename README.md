@@ -12,12 +12,11 @@
 
 <h1>📋 Resume</h1>
 👋 Hi, I’m <b>Pohsun Chiang</b>!<br>
-I enjoy sharing my life and creations, and I hope to connect with more people through social media.<br>
-This is a simple personal digital business card page that allows you to quickly find all my links.<br>
+This is a cleanly designed personal resume page that allows you to quickly learn about my background, professional skills, and career objectives.<br>
 <br>
 
 📷 Preview: https://burtnotbut.github.io/resume202304/<br>
-- <b>Technologies Used</b>: Bootstrap, HTML, CSS, JavaScript<br>
-- <b>Created On</b>: April 2023<br>
-- <b>Description</b>: Includes a self-introduction and image links to Facebook, Instagram, LINE, and SHOP seller center to increase social connections and exposure. Also provides ATM transfer and bank remittance information for small donations.<br>
+- **Technologies Used**: Bootstrap, HTML, CSS, JavaScript<br>
+- **Creation Date**: April 2023<br>
+- **Description**: Built using a Bootstrap template, this April 2023 version of my personal resume features a responsive layout and a clean, minimal interactive design.
 </span>
