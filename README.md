@@ -1,11 +1,11 @@
 <h1>📋 履歷</h1>
 <span style="font-size:18px;">
-👋 嗨，我是 <b>江柏勳</b>！<br>
-喜歡分享生活與作品，也希望透過社群平台與更多朋友交流。<br>
-這是一個簡單的個人電子名片頁面，方便你快速找到我的各種連結。<br>
+👋 嗨，我是 <b>江柏勳</b>！<br><br>
+這是一個簡單設計的個人履歷頁面，讓您能快速了解我的背景與專業技能<br>
 <br>
 
 📷預覽:https://burtnotbut.github.io/resume202304/<br>
+📷 預覽：<a href="https://burtnotbut.github.io/resume202304/" target="_blank">https://burtnotbut.github.io/resume202304/</a><br>
 - **使用技術**: Bootstrap、HTML、CSS、JavaScript<br>
 - **製作日期**: 2023年4月<br>
 - **製作內容**: 基於 Bootstrap 模板打造的 2023 年 4 月版個人履歷，具備響應式設計與簡潔的互動效果。<br>
