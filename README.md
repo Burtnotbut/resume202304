@@ -11,6 +11,7 @@
 </span>
 
 <h1>📋 Resume</h1>
+<span style="font-size:18px;">
 👋 Hi, I’m <b>Pohsun Chiang</b>!<br>
 This is a cleanly designed personal resume page that allows you to quickly learn about my background, professional skills, and career objectives.<br>
 <br>
